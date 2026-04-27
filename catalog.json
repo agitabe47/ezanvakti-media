@@ -1,1 +1,1730 @@
-
+[
+  {
+    "id": "card_1",
+    "title": {
+      "tr": "Bakara, 153",
+      "en": "Al-Baqarah, 153"
+    },
+    "quote": {
+      "tr": "Sabredin! Şüphesiz Allah sabredenlerle beraberdir.",
+      "en": "Be patient! Indeed, Allah is with the patient."
+    },
+    "source": {
+      "tr": "Bakara, 153",
+      "en": "Al-Baqarah, 153"
+    },
+    "category": "ayet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=1",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=1"
+  },
+  {
+    "id": "card_2",
+    "title": {
+      "tr": "İnşirah, 6",
+      "en": "Ash-Sharh, 6"
+    },
+    "quote": {
+      "tr": "Şüphesiz zorlukla beraber bir kolaylık vardır.",
+      "en": "Indeed, with hardship comes ease."
+    },
+    "source": {
+      "tr": "İnşirah, 6",
+      "en": "Ash-Sharh, 6"
+    },
+    "category": "ayet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=2",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=2"
+  },
+  {
+    "id": "card_3",
+    "title": {
+      "tr": "Bakara, 286",
+      "en": "Al-Baqarah, 286"
+    },
+    "quote": {
+      "tr": "Allah hiçbir nefse taşıyamayacağı yükü vermez.",
+      "en": "Allah does not burden a soul beyond that it can bear."
+    },
+    "source": {
+      "tr": "Bakara, 286",
+      "en": "Al-Baqarah, 286"
+    },
+    "category": "ayet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=3",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=3"
+  },
+  {
+    "id": "card_4",
+    "title": {
+      "tr": "Mümin, 60",
+      "en": "Ghafir, 60"
+    },
+    "quote": {
+      "tr": "Rabbiniz şöyle buyurdu: Bana dua edin, duanıza cevap vereyim.",
+      "en": "Your Lord said: Call upon Me, I will respond to you."
+    },
+    "source": {
+      "tr": "Mümin, 60",
+      "en": "Ghafir, 60"
+    },
+    "category": "ayet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=4",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=4"
+  },
+  {
+    "id": "card_5",
+    "title": {
+      "tr": "Fatiha, 6-7",
+      "en": "Al-Fatihah, 6-7"
+    },
+    "quote": {
+      "tr": "Bizi doğru yola, kendilerine nimet verdiklerinin yoluna ilet.",
+      "en": "Guide us to the straight path - the path of those upon whom You have bestowed favor."
+    },
+    "source": {
+      "tr": "Fatiha, 6-7",
+      "en": "Al-Fatihah, 6-7"
+    },
+    "category": "ayet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=5",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=5"
+  },
+  {
+    "id": "card_6",
+    "title": {
+      "tr": "Bakara, 29",
+      "en": "Al-Baqarah, 29"
+    },
+    "quote": {
+      "tr": "O, her şeyi bilendir.",
+      "en": "He is the Knower of all things."
+    },
+    "source": {
+      "tr": "Bakara, 29",
+      "en": "Al-Baqarah, 29"
+    },
+    "category": "ayet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=6",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=6"
+  },
+  {
+    "id": "card_7",
+    "title": {
+      "tr": "Cuma, 10",
+      "en": "Al-Jumuah, 10"
+    },
+    "quote": {
+      "tr": "Allah'ı çokça anın ki kurtuluşa eresiniz.",
+      "en": "Remember Allah often that you may succeed."
+    },
+    "source": {
+      "tr": "Cuma, 10",
+      "en": "Al-Jumuah, 10"
+    },
+    "category": "ayet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=7",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=7"
+  },
+  {
+    "id": "card_8",
+    "title": {
+      "tr": "Talak, 3",
+      "en": "At-Talaq, 3"
+    },
+    "quote": {
+      "tr": "Kim Allah'a tevekkül ederse Allah ona yeter.",
+      "en": "Whoever relies upon Allah, then He is sufficient for him."
+    },
+    "source": {
+      "tr": "Talak, 3",
+      "en": "At-Talaq, 3"
+    },
+    "category": "ayet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=8",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=8"
+  },
+  {
+    "id": "card_9",
+    "title": {
+      "tr": "Nisa, 103",
+      "en": "An-Nisa, 103"
+    },
+    "quote": {
+      "tr": "Muhakkak ki namazı kılmak, müminlere vakitleri belirlenmiş bir farz olmuştur.",
+      "en": "Indeed, prayer has been decreed upon the believers at specified times."
+    },
+    "source": {
+      "tr": "Nisa, 103",
+      "en": "An-Nisa, 103"
+    },
+    "category": "ayet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=9",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=9"
+  },
+  {
+    "id": "card_10",
+    "title": {
+      "tr": "Ankebut, 45",
+      "en": "Al-Ankabut, 45"
+    },
+    "quote": {
+      "tr": "Namaz insanı hayasızlıktan ve kötülükten alıkoyar.",
+      "en": "Indeed, prayer prohibits immorality and wrongdoing."
+    },
+    "source": {
+      "tr": "Ankebut, 45",
+      "en": "Al-Ankabut, 45"
+    },
+    "category": "ayet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=10",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=10"
+  },
+  {
+    "id": "card_11",
+    "title": {
+      "tr": "Al-i İmran, 31",
+      "en": "Al Imran, 31"
+    },
+    "quote": {
+      "tr": "Allah'ı ve Rasulünü sevenler, Allah'ın en çok sevdiği kimselerdir.",
+      "en": "Those who love Allah and His Messenger are the most beloved to Allah."
+    },
+    "source": {
+      "tr": "Al-i İmran, 31",
+      "en": "Al Imran, 31"
+    },
+    "category": "ayet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=11",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=11"
+  },
+  {
+    "id": "card_12",
+    "title": {
+      "tr": "Ankebut, 64",
+      "en": "Al-Ankabut, 64"
+    },
+    "quote": {
+      "tr": "Dünya hayatı bir oyun ve oyalanmadan ibarettir.",
+      "en": "The life of this world is but amusement and diversion."
+    },
+    "source": {
+      "tr": "Ankebut, 64",
+      "en": "Al-Ankabut, 64"
+    },
+    "category": "ayet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=12",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=12"
+  },
+  {
+    "id": "card_13",
+    "title": {
+      "tr": "Nahl, 90",
+      "en": "An-Nahl, 90"
+    },
+    "quote": {
+      "tr": "Şüphesiz ki Allah adaleti, iyilik yapmayı emreder.",
+      "en": "Indeed, Allah orders justice and good conduct."
+    },
+    "source": {
+      "tr": "Nahl, 90",
+      "en": "An-Nahl, 90"
+    },
+    "category": "ayet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=13",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=13"
+  },
+  {
+    "id": "card_14",
+    "title": {
+      "tr": "Enam, 160",
+      "en": "Al-An'am, 160"
+    },
+    "quote": {
+      "tr": "Kim bir iyilik yaparsa on katı ile karşılık görür.",
+      "en": "Whoever comes with a good deed will have ten times the like thereof."
+    },
+    "source": {
+      "tr": "Enam, 160",
+      "en": "Al-An'am, 160"
+    },
+    "category": "ayet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=14",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=14"
+  },
+  {
+    "id": "card_15",
+    "title": {
+      "tr": "Ahzab, 35",
+      "en": "Al-Ahzab, 35"
+    },
+    "quote": {
+      "tr": "Allah zikreden erkekleri ve zikreden kadınları Allah mağfiret ve büyük mükafat için hazırlamıştır.",
+      "en": "Allah has prepared forgiveness and a great reward for the men and women who remember Him much."
+    },
+    "source": {
+      "tr": "Ahzab, 35",
+      "en": "Al-Ahzab, 35"
+    },
+    "category": "ayet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=15",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=15"
+  },
+  {
+    "id": "card_16",
+    "title": {
+      "tr": "Müzzemmil, 8",
+      "en": "Al-Muzzammil, 8"
+    },
+    "quote": {
+      "tr": "Rabbinin adını an ve her şeyden soyutlanarak yalnızca O'na yönel.",
+      "en": "Remember the name of your Lord and devote yourself to Him wholeheartedly."
+    },
+    "source": {
+      "tr": "Müzzemmil, 8",
+      "en": "Al-Muzzammil, 8"
+    },
+    "category": "ayet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=16",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=16"
+  },
+  {
+    "id": "card_17",
+    "title": {
+      "tr": "Al-i İmran, 122",
+      "en": "Al Imran, 122"
+    },
+    "quote": {
+      "tr": "İnananlar yalnızca Allah'tan korksunlar.",
+      "en": "Let the believers put their trust only in Allah."
+    },
+    "source": {
+      "tr": "Al-i İmran, 122",
+      "en": "Al Imran, 122"
+    },
+    "category": "ayet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=17",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=17"
+  },
+  {
+    "id": "card_18",
+    "title": {
+      "tr": "Bakara, 37",
+      "en": "Al-Baqarah, 37"
+    },
+    "quote": {
+      "tr": "Şüphesiz Allah, Tevvab'dır (tövbeleri kabul edendir).",
+      "en": "Indeed, Allah is the Accepting of repentance, the Merciful."
+    },
+    "source": {
+      "tr": "Bakara, 37",
+      "en": "Al-Baqarah, 37"
+    },
+    "category": "ayet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=18",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=18"
+  },
+  {
+    "id": "card_19",
+    "title": {
+      "tr": "Zümer, 53",
+      "en": "Az-Zumar, 53"
+    },
+    "quote": {
+      "tr": "De ki: Ey çok günah işleyerek kendi öz canlarına kıyan kullarım! Allah'ın rahmetinden ümidinizi kesmeyin.",
+      "en": "Say: O My servants who have transgressed against themselves, despair not of the mercy of Allah."
+    },
+    "source": {
+      "tr": "Zümer, 53",
+      "en": "Az-Zumar, 53"
+    },
+    "category": "ayet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=19",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=19"
+  },
+  {
+    "id": "card_20",
+    "title": {
+      "tr": "Bakara, 143",
+      "en": "Al-Baqarah, 143"
+    },
+    "quote": {
+      "tr": "Muhakkak ki Allah kullarına karşı çok şefkatlidir.",
+      "en": "Indeed, Allah is Kind and Merciful to the people."
+    },
+    "source": {
+      "tr": "Bakara, 143",
+      "en": "Al-Baqarah, 143"
+    },
+    "category": "ayet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=20",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=20"
+  },
+  {
+    "id": "card_21",
+    "title": {
+      "tr": "Tin, 4",
+      "en": "At-Tin, 4"
+    },
+    "quote": {
+      "tr": "Andolsun, biz insanı en güzel biçimde yarattık.",
+      "en": "We have certainly created man in the best of stature."
+    },
+    "source": {
+      "tr": "Tin, 4",
+      "en": "At-Tin, 4"
+    },
+    "category": "ayet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=21",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=21"
+  },
+  {
+    "id": "card_22",
+    "title": {
+      "tr": "Al-i İmran, 200",
+      "en": "Al Imran, 200"
+    },
+    "quote": {
+      "tr": "Ey iman edenler! Sabredin, sebat gösterin.",
+      "en": "O you who have believed, persevere and endure."
+    },
+    "source": {
+      "tr": "Al-i İmran, 200",
+      "en": "Al Imran, 200"
+    },
+    "category": "ayet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=22",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=22"
+  },
+  {
+    "id": "card_23",
+    "title": {
+      "tr": "Enfal, 19",
+      "en": "Al-Anfal, 19"
+    },
+    "quote": {
+      "tr": "Şüphesiz Allah, müminlerle beraberdir.",
+      "en": "Indeed, Allah is with the believers."
+    },
+    "source": {
+      "tr": "Enfal, 19",
+      "en": "Al-Anfal, 19"
+    },
+    "category": "ayet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=23",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=23"
+  },
+  {
+    "id": "card_24",
+    "title": {
+      "tr": "Bakara, 245",
+      "en": "Al-Baqarah, 245"
+    },
+    "quote": {
+      "tr": "Kim Allah'a güzel bir borç verirse Allah onu kat kat artırır.",
+      "en": "Who is it that would loan Allah a goodly loan so He may multiply it for him?"
+    },
+    "source": {
+      "tr": "Bakara, 245",
+      "en": "Al-Baqarah, 245"
+    },
+    "category": "ayet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=24",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=24"
+  },
+  {
+    "id": "card_25",
+    "title": {
+      "tr": "Bakara, 185",
+      "en": "Al-Baqarah, 185"
+    },
+    "quote": {
+      "tr": "Allah size kolaylık diler, güçlük dilemez.",
+      "en": "Allah intends for you ease and does not intend for you hardship."
+    },
+    "source": {
+      "tr": "Bakara, 185",
+      "en": "Al-Baqarah, 185"
+    },
+    "category": "ayet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=25",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=25"
+  },
+  {
+    "id": "card_26",
+    "title": {
+      "tr": "Şems, 9",
+      "en": "Ash-Shams, 9"
+    },
+    "quote": {
+      "tr": "Ruhlarınızı temizleyin, mutlaka kurtuluşa erdiniz.",
+      "en": "He has succeeded who purifies the soul."
+    },
+    "source": {
+      "tr": "Şems, 9",
+      "en": "Ash-Shams, 9"
+    },
+    "category": "ayet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=26",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=26"
+  },
+  {
+    "id": "card_27",
+    "title": {
+      "tr": "Hud, 114",
+      "en": "Hud, 114"
+    },
+    "quote": {
+      "tr": "Şüphesiz namaz, günahları siler.",
+      "en": "Indeed, prayer wipes away sins."
+    },
+    "source": {
+      "tr": "Hud, 114",
+      "en": "Hud, 114"
+    },
+    "category": "ayet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=27",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=27"
+  },
+  {
+    "id": "card_28",
+    "title": {
+      "tr": "Ra'd, 28",
+      "en": "Ar-Ra'd, 28"
+    },
+    "quote": {
+      "tr": "Allah'ı anmak, kalplere huzur verir.",
+      "en": "Verily, in the remembrance of Allah do hearts find rest."
+    },
+    "source": {
+      "tr": "Ra'd, 28",
+      "en": "Ar-Ra'd, 28"
+    },
+    "category": "ayet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=28",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=28"
+  },
+  {
+    "id": "card_29",
+    "title": {
+      "tr": "Necm, 39",
+      "en": "An-Najm, 39"
+    },
+    "quote": {
+      "tr": "İnsan için ancak kendi çalıştığı vardır.",
+      "en": "Man will have nothing but what he strives for."
+    },
+    "source": {
+      "tr": "Necm, 39",
+      "en": "An-Najm, 39"
+    },
+    "category": "ayet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=29",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=29"
+  },
+  {
+    "id": "card_30",
+    "title": {
+      "tr": "Al-i İmran, 185",
+      "en": "Al Imran, 185"
+    },
+    "quote": {
+      "tr": "Her nefis ölümü tadacaktır.",
+      "en": "Every soul will taste death."
+    },
+    "source": {
+      "tr": "Al-i İmran, 185",
+      "en": "Al Imran, 185"
+    },
+    "category": "ayet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=30",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=30"
+  },
+  {
+    "id": "card_31",
+    "title": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "quote": {
+      "tr": "Ben güzel ahlakı tamamlamak için gönderildim.",
+      "en": "I was sent to perfect good character."
+    },
+    "source": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "category": "hadis",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=31",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=31"
+  },
+  {
+    "id": "card_32",
+    "title": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "quote": {
+      "tr": "İlim öğrenmek her Müslümana farzdır.",
+      "en": "Seeking knowledge is an obligation upon every Muslim."
+    },
+    "source": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "category": "hadis",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=32",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=32"
+  },
+  {
+    "id": "card_33",
+    "title": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "quote": {
+      "tr": "Kolaylaştırınız, zorlaştırmayınız; müjdeleyiniz, nefret ettirmeyiniz.",
+      "en": "Make things easy and do not make them difficult; give glad tidings and do not repel."
+    },
+    "source": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "category": "hadis",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=33",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=33"
+  },
+  {
+    "id": "card_34",
+    "title": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "quote": {
+      "tr": "Mümin, müminin aynasıdır.",
+      "en": "The believer is the mirror of the believer."
+    },
+    "source": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "category": "hadis",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=34",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=34"
+  },
+  {
+    "id": "card_35",
+    "title": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "quote": {
+      "tr": "Temizlik imanın yarısıdır.",
+      "en": "Cleanliness is half of faith."
+    },
+    "source": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "category": "hadis",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=35",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=35"
+  },
+  {
+    "id": "card_36",
+    "title": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "quote": {
+      "tr": "Gülümsemen kardeşine karşı sadakadır.",
+      "en": "Your smile for your brother is charity."
+    },
+    "source": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "category": "hadis",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=36",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=36"
+  },
+  {
+    "id": "card_37",
+    "title": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "quote": {
+      "tr": "Güçlü olan kimse, öfkelendiğinde kendine hâkim olandır.",
+      "en": "The strong man is not one who can wrestle; the strong man is one who controls himself when angry."
+    },
+    "source": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "category": "hadis",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=37",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=37"
+  },
+  {
+    "id": "card_38",
+    "title": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "quote": {
+      "tr": "Komşusu açken tok yatan bizden değildir.",
+      "en": "He is not a believer who eats his fill while his neighbor goes hungry."
+    },
+    "source": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "category": "hadis",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=38",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=38"
+  },
+  {
+    "id": "card_39",
+    "title": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "quote": {
+      "tr": "İnsanların en hayırlısı insanlara faydalı olandır.",
+      "en": "The best of people are those who are most beneficial to others."
+    },
+    "source": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "category": "hadis",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=39",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=39"
+  },
+  {
+    "id": "card_40",
+    "title": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "quote": {
+      "tr": "Ana-babana hizmet et; cennet onların ayakları altındadır.",
+      "en": "Paradise lies at the feet of your mother."
+    },
+    "source": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "category": "hadis",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=40",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=40"
+  },
+  {
+    "id": "card_41",
+    "title": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "quote": {
+      "tr": "Sözlerine bak; iyi söz sadakadır.",
+      "en": "A good word is a charitable act."
+    },
+    "source": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "category": "hadis",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=41",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=41"
+  },
+  {
+    "id": "card_42",
+    "title": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "quote": {
+      "tr": "Birbirinize karşı kıskanmayın, birbirinizle dargın durmayın.",
+      "en": "Do not envy one another; do not be angry with one another."
+    },
+    "source": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "category": "hadis",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=42",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=42"
+  },
+  {
+    "id": "card_43",
+    "title": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "quote": {
+      "tr": "Allah güzeldir, güzelliği sever.",
+      "en": "Allah is beautiful and loves beauty."
+    },
+    "source": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "category": "hadis",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=43",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=43"
+  },
+  {
+    "id": "card_44",
+    "title": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "quote": {
+      "tr": "Dini bilen âlim, onu yaşayan zâhidden üstündür.",
+      "en": "A scholar is greater than a worshipper."
+    },
+    "source": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "category": "hadis",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=44",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=44"
+  },
+  {
+    "id": "card_45",
+    "title": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "quote": {
+      "tr": "Kim bir kolaylık sağlarsa, Allah da ona dünyada ve ahirette kolaylık sağlar.",
+      "en": "Whoever relieves a believer's difficulty, Allah will relieve his difficulties in this world and the next."
+    },
+    "source": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "category": "hadis",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=45",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=45"
+  },
+  {
+    "id": "card_46",
+    "title": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "quote": {
+      "tr": "Dürüstlük iyiliğe, iyilik cennete götürür.",
+      "en": "Truthfulness leads to righteousness and righteousness leads to Paradise."
+    },
+    "source": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "category": "hadis",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=46",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=46"
+  },
+  {
+    "id": "card_47",
+    "title": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "quote": {
+      "tr": "Ameller niyetlere göredir.",
+      "en": "Actions are judged by intentions."
+    },
+    "source": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "category": "hadis",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=47",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=47"
+  },
+  {
+    "id": "card_48",
+    "title": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "quote": {
+      "tr": "Dünya, ahiretin tarlasıdır.",
+      "en": "The world is a farm for the hereafter."
+    },
+    "source": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "category": "hadis",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=48",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=48"
+  },
+  {
+    "id": "card_49",
+    "title": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "quote": {
+      "tr": "Cömertlik cennette bir ağaçtır.",
+      "en": "Generosity is a tree in Paradise."
+    },
+    "source": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "category": "hadis",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=49",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=49"
+  },
+  {
+    "id": "card_50",
+    "title": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "quote": {
+      "tr": "Bir kişiyi doğru yola iletmen, sana güneşin üzerine doğduğu her şeyden daha hayırlıdır.",
+      "en": "Guiding one person to the right path is better for you than everything the sun rises over."
+    },
+    "source": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "category": "hadis",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=50",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=50"
+  },
+  {
+    "id": "card_51",
+    "title": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "quote": {
+      "tr": "Sabah namazını kılan kimse Allah'ın koruması altındadır.",
+      "en": "Whoever prays the Fajr prayer is under the protection of Allah."
+    },
+    "source": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "category": "hadis",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=51",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=51"
+  },
+  {
+    "id": "card_52",
+    "title": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "quote": {
+      "tr": "Şükreden yoksul, şükretmeyen zenginden daha hayırlıdır.",
+      "en": "A grateful poor person is better than an ungrateful rich person."
+    },
+    "source": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "category": "hadis",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=52",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=52"
+  },
+  {
+    "id": "card_53",
+    "title": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "quote": {
+      "tr": "Kim Cuma günü Kehf suresini okursa, iki Cuma arasındaki günleri nurlanır.",
+      "en": "Whoever recites Surah Al-Kahf on Friday will have light shining between the two Fridays."
+    },
+    "source": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "category": "hadis",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=53",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=53"
+  },
+  {
+    "id": "card_54",
+    "title": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "quote": {
+      "tr": "Kızgınlığını yutabilen kimse Allah'ın rızasına erer.",
+      "en": "Whoever suppresses his anger, Allah will fill his heart with faith."
+    },
+    "source": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "category": "hadis",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=54",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=54"
+  },
+  {
+    "id": "card_55",
+    "title": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "quote": {
+      "tr": "Müslüman, elinden ve dilinden Müslümanların emin olduğu kişidir.",
+      "en": "A Muslim is one from whose tongue and hand other Muslims are safe."
+    },
+    "source": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "category": "hadis",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=55",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=55"
+  },
+  {
+    "id": "card_56",
+    "title": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "quote": {
+      "tr": "Helal açıktır, haram açıktır; ikisi arasında şüpheli şeyler vardır.",
+      "en": "The lawful is clear and the unlawful is clear, and between them are doubtful matters."
+    },
+    "source": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "category": "hadis",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=56",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=56"
+  },
+  {
+    "id": "card_57",
+    "title": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "quote": {
+      "tr": "Her şey için bir yol vardır; cennete giden yol ise ilimdir.",
+      "en": "For everything there is a path; the path to Paradise is knowledge."
+    },
+    "source": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "category": "hadis",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=57",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=57"
+  },
+  {
+    "id": "card_58",
+    "title": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "quote": {
+      "tr": "İki nimete karşı birçok insan aldanmıştır: Sağlık ve boş vakit.",
+      "en": "Two blessings which many people squander: good health and free time."
+    },
+    "source": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "category": "hadis",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=58",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=58"
+  },
+  {
+    "id": "card_59",
+    "title": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "quote": {
+      "tr": "Küçük günahları hafife alma; onlar birikir.",
+      "en": "Beware of minor sins, for they accumulate."
+    },
+    "source": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "category": "hadis",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=59",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=59"
+  },
+  {
+    "id": "card_60",
+    "title": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "quote": {
+      "tr": "Kim sabah akşam on kez ihlas suresini okursa, cennette ona bir köşk yapılır.",
+      "en": "Whoever recites Surah Al-Ikhlas ten times morning and evening, a palace is built for him in Paradise."
+    },
+    "source": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "category": "hadis",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=60",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=60"
+  },
+  {
+    "id": "card_61",
+    "title": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "quote": {
+      "tr": "Resulullah en çok zikredilen duayı soranlara şunu söyledi: Kalbin Allah zikriyle dolu olsun.",
+      "en": "Fill your heart with the remembrance of Allah."
+    },
+    "source": {
+      "tr": "Hadis-i Şerif",
+      "en": "Hadith"
+    },
+    "category": "hadis",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=61",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=61"
+  },
+  {
+    "id": "card_62",
+    "title": {
+      "tr": "Cuma Müjdesi",
+      "en": "Friday Blessing"
+    },
+    "quote": {
+      "tr": "Hayırlı Cumalar! Allah'ın rahmeti, bereketi ve selamı üzerinize olsun.",
+      "en": "Blessed Friday! May Allah's mercy, blessings and peace be upon you."
+    },
+    "source": {
+      "tr": "Cuma Müjdesi",
+      "en": "Friday Blessing"
+    },
+    "category": "cuma",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=62",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=62"
+  },
+  {
+    "id": "card_63",
+    "title": {
+      "tr": "Cuma Müjdesi",
+      "en": "Friday Blessing"
+    },
+    "quote": {
+      "tr": "Cuma gününde yapılan dua reddolunmaz. Dualarınız kabul olsun.",
+      "en": "Prayers on Friday are not rejected. May your prayers be accepted."
+    },
+    "source": {
+      "tr": "Cuma Müjdesi",
+      "en": "Friday Blessing"
+    },
+    "category": "cuma",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=63",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=63"
+  },
+  {
+    "id": "card_64",
+    "title": {
+      "tr": "Cuma Müjdesi",
+      "en": "Friday Blessing"
+    },
+    "quote": {
+      "tr": "Bu mübarek Cuma günü, günahlarınız affolsun, dualarınız kabul görsün.",
+      "en": "On this blessed Friday, may your sins be forgiven and your prayers accepted."
+    },
+    "source": {
+      "tr": "Cuma Müjdesi",
+      "en": "Friday Blessing"
+    },
+    "category": "cuma",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=64",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=64"
+  },
+  {
+    "id": "card_65",
+    "title": {
+      "tr": "Cuma Müjdesi",
+      "en": "Friday Blessing"
+    },
+    "quote": {
+      "tr": "Hayırlı Cumalar! Rabbimiz her dua eden kulunu duysun.",
+      "en": "Blessed Friday! May our Lord hear every servant who calls upon Him."
+    },
+    "source": {
+      "tr": "Cuma Müjdesi",
+      "en": "Friday Blessing"
+    },
+    "category": "cuma",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=65",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=65"
+  },
+  {
+    "id": "card_66",
+    "title": {
+      "tr": "Cuma Müjdesi",
+      "en": "Friday Blessing"
+    },
+    "quote": {
+      "tr": "Cuma, haftanın en hayırlı günüdür. Bu günün bereketinden nasibinizi alın.",
+      "en": "Friday is the best day of the week. Take your share of its blessings."
+    },
+    "source": {
+      "tr": "Cuma Müjdesi",
+      "en": "Friday Blessing"
+    },
+    "category": "cuma",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=66",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=66"
+  },
+  {
+    "id": "card_67",
+    "title": {
+      "tr": "Cuma Müjdesi",
+      "en": "Friday Blessing"
+    },
+    "quote": {
+      "tr": "Mübarek Cuma gününüz kutlu olsun. Kalpleriniz huzurla dolsun.",
+      "en": "May your blessed Friday be joyful. May your hearts be filled with peace."
+    },
+    "source": {
+      "tr": "Cuma Müjdesi",
+      "en": "Friday Blessing"
+    },
+    "category": "cuma",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=67",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=67"
+  },
+  {
+    "id": "card_68",
+    "title": {
+      "tr": "Cuma Müjdesi",
+      "en": "Friday Blessing"
+    },
+    "quote": {
+      "tr": "Hayırlı Cumalar! Rabbim dualarınızı kabul eylesin.",
+      "en": "Blessed Friday! May Allah accept your prayers."
+    },
+    "source": {
+      "tr": "Cuma Müjdesi",
+      "en": "Friday Blessing"
+    },
+    "category": "cuma",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=68",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=68"
+  },
+  {
+    "id": "card_69",
+    "title": {
+      "tr": "Cuma Müjdesi",
+      "en": "Friday Blessing"
+    },
+    "quote": {
+      "tr": "Bu Cuma gününüz ve her Cumanız hayırlı olsun.",
+      "en": "May this Friday and every Friday be blessed for you."
+    },
+    "source": {
+      "tr": "Cuma Müjdesi",
+      "en": "Friday Blessing"
+    },
+    "category": "cuma",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=69",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=69"
+  },
+  {
+    "id": "card_70",
+    "title": {
+      "tr": "Cuma Müjdesi",
+      "en": "Friday Blessing"
+    },
+    "quote": {
+      "tr": "Cuma sabahı okunan salavat, kıyamete kadar geçerlidir.",
+      "en": "Salawat recited on Friday morning is valid until the Day of Judgment."
+    },
+    "source": {
+      "tr": "Cuma Müjdesi",
+      "en": "Friday Blessing"
+    },
+    "category": "cuma",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=70",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=70"
+  },
+  {
+    "id": "card_71",
+    "title": {
+      "tr": "Cuma Müjdesi",
+      "en": "Friday Blessing"
+    },
+    "quote": {
+      "tr": "Hayırlı Cumalar! Rabbimiz hepimizi güzel ahlakla yaşatsın.",
+      "en": "Blessed Friday! May our Lord grant us all a life of good character."
+    },
+    "source": {
+      "tr": "Cuma Müjdesi",
+      "en": "Friday Blessing"
+    },
+    "category": "cuma",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=71",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=71"
+  },
+  {
+    "id": "card_72",
+    "title": {
+      "tr": "Kandil Müjdesi",
+      "en": "Holy Night"
+    },
+    "quote": {
+      "tr": "Mübarek Regaip Kandili'niz kutlu olsun.",
+      "en": "May your blessed Raghaib Night be filled with mercy."
+    },
+    "source": {
+      "tr": "Kandil Müjdesi",
+      "en": "Holy Night"
+    },
+    "category": "kandil",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=72",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=72"
+  },
+  {
+    "id": "card_73",
+    "title": {
+      "tr": "Kandil Müjdesi",
+      "en": "Holy Night"
+    },
+    "quote": {
+      "tr": "Miraç Kandili'nde Efendimiz'e sonsuz salat ve selam olsun.",
+      "en": "May infinite blessings and peace be upon our Prophet on Laylat al-Mi'raj."
+    },
+    "source": {
+      "tr": "Kandil Müjdesi",
+      "en": "Holy Night"
+    },
+    "category": "kandil",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=73",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=73"
+  },
+  {
+    "id": "card_74",
+    "title": {
+      "tr": "Kandil Müjdesi",
+      "en": "Holy Night"
+    },
+    "quote": {
+      "tr": "Berat Kandili'niz mübarek olsun. Günahlarınız affedilsin.",
+      "en": "May your Laylat al-Bara'at be blessed. May your sins be forgiven."
+    },
+    "source": {
+      "tr": "Kandil Müjdesi",
+      "en": "Holy Night"
+    },
+    "category": "kandil",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=74",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=74"
+  },
+  {
+    "id": "card_75",
+    "title": {
+      "tr": "Kandil Müjdesi",
+      "en": "Holy Night"
+    },
+    "quote": {
+      "tr": "Kadir Gecesi'niz hayırlı olsun. Bin aydan daha hayırlı bu gecede dualarınız kabul olsun.",
+      "en": "May your Night of Power be blessed. May your prayers be accepted on this night better than a thousand months."
+    },
+    "source": {
+      "tr": "Kandil Müjdesi",
+      "en": "Holy Night"
+    },
+    "category": "kandil",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=75",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=75"
+  },
+  {
+    "id": "card_76",
+    "title": {
+      "tr": "Kandil Müjdesi",
+      "en": "Holy Night"
+    },
+    "quote": {
+      "tr": "Mevlid Kandili'niz mübarek olsun. Efendimiz'in doğduğu bu geceye layık olalım.",
+      "en": "May your Mawlid be blessed. May we be worthy of the night our Prophet was born."
+    },
+    "source": {
+      "tr": "Kandil Müjdesi",
+      "en": "Holy Night"
+    },
+    "category": "kandil",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=76",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=76"
+  },
+  {
+    "id": "card_77",
+    "title": {
+      "tr": "Dua",
+      "en": "Supplication"
+    },
+    "quote": {
+      "tr": "Rabbim, kalbimi senin dinine sabit kıl.",
+      "en": "O Lord, make my heart firm upon Your religion."
+    },
+    "source": {
+      "tr": "Dua",
+      "en": "Supplication"
+    },
+    "category": "dua",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=77",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=77"
+  },
+  {
+    "id": "card_78",
+    "title": {
+      "tr": "Dua",
+      "en": "Supplication"
+    },
+    "quote": {
+      "tr": "Allahümme inni euzü bike minel hemmi vel hazen.",
+      "en": "O Allah, I seek refuge in You from anxiety and sorrow."
+    },
+    "source": {
+      "tr": "Dua",
+      "en": "Supplication"
+    },
+    "category": "dua",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=78",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=78"
+  },
+  {
+    "id": "card_79",
+    "title": {
+      "tr": "Dua",
+      "en": "Supplication"
+    },
+    "quote": {
+      "tr": "Rabbim, bana sabır ver ve Müslüman olarak canımı al.",
+      "en": "O Lord, grant me patience and let me die as a Muslim."
+    },
+    "source": {
+      "tr": "Dua",
+      "en": "Supplication"
+    },
+    "category": "dua",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=79",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=79"
+  },
+  {
+    "id": "card_80",
+    "title": {
+      "tr": "Dua",
+      "en": "Supplication"
+    },
+    "quote": {
+      "tr": "Rabbim, rızkımı helal kıl, haramdan uzak tut.",
+      "en": "O Lord, make my provisions lawful and keep me away from the forbidden."
+    },
+    "source": {
+      "tr": "Dua",
+      "en": "Supplication"
+    },
+    "category": "dua",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=80",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=80"
+  },
+  {
+    "id": "card_81",
+    "title": {
+      "tr": "Dua",
+      "en": "Supplication"
+    },
+    "quote": {
+      "tr": "Allahümme eahyini mademeti hayatü hayren li, ve teveffeni iza kanetil vefatü hayren li.",
+      "en": "O Allah, let me live as long as life is good for me, and let me die when death is better for me."
+    },
+    "source": {
+      "tr": "Dua",
+      "en": "Supplication"
+    },
+    "category": "dua",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=81",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=81"
+  },
+  {
+    "id": "card_82",
+    "title": {
+      "tr": "Dua",
+      "en": "Supplication"
+    },
+    "quote": {
+      "tr": "Rabbim, beni ve ailemi cennetine al, cehennemden uzak kıl.",
+      "en": "O Lord, enter me and my family into Paradise and keep us away from the Fire."
+    },
+    "source": {
+      "tr": "Dua",
+      "en": "Supplication"
+    },
+    "category": "dua",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=82",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=82"
+  },
+  {
+    "id": "card_83",
+    "title": {
+      "tr": "Dua",
+      "en": "Supplication"
+    },
+    "quote": {
+      "tr": "Ya Rabbî! Gönlümü aydınlat, yolumu kolaylaştır.",
+      "en": "O Lord! Illuminate my heart and ease my path."
+    },
+    "source": {
+      "tr": "Dua",
+      "en": "Supplication"
+    },
+    "category": "dua",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=83",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=83"
+  },
+  {
+    "id": "card_84",
+    "title": {
+      "tr": "Dua",
+      "en": "Supplication"
+    },
+    "quote": {
+      "tr": "Rabbim, şükredenlerin arasına kat beni.",
+      "en": "O Lord, count me among the grateful."
+    },
+    "source": {
+      "tr": "Dua",
+      "en": "Supplication"
+    },
+    "category": "dua",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=84",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=84"
+  },
+  {
+    "id": "card_85",
+    "title": {
+      "tr": "Dua",
+      "en": "Supplication"
+    },
+    "quote": {
+      "tr": "Allahümme ağinni bi helalike an haramike ve bi fadlike ammen sivake.",
+      "en": "O Allah, suffice me with Your lawful against Your unlawful and enrich me with Your grace."
+    },
+    "source": {
+      "tr": "Dua",
+      "en": "Supplication"
+    },
+    "category": "dua",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=85",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=85"
+  },
+  {
+    "id": "card_86",
+    "title": {
+      "tr": "Dua - İsra 24",
+      "en": "Supplication - Al-Isra 24"
+    },
+    "quote": {
+      "tr": "Rabbim, bana ve anne-babama rahmet et, nasıl beni küçüklüğümde yetiştirdilerse.",
+      "en": "O Lord, have mercy on me and my parents, as they raised me when I was young."
+    },
+    "source": {
+      "tr": "Dua - İsra 24",
+      "en": "Supplication - Al-Isra 24"
+    },
+    "category": "dua",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=86",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=86"
+  },
+  {
+    "id": "card_87",
+    "title": {
+      "tr": "İslami Hikmet",
+      "en": "Islamic Wisdom"
+    },
+    "quote": {
+      "tr": "Dünyaya misafir gibi bak; misafir yük taşımaz.",
+      "en": "Look at the world like a guest; a guest does not carry heavy burdens."
+    },
+    "source": {
+      "tr": "İslami Hikmet",
+      "en": "Islamic Wisdom"
+    },
+    "category": "hikmet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=87",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=87"
+  },
+  {
+    "id": "card_88",
+    "title": {
+      "tr": "İslami Hikmet",
+      "en": "Islamic Wisdom"
+    },
+    "quote": {
+      "tr": "Bir kapı kapanırsa, Allah sana daha iyisini açar.",
+      "en": "If one door closes, Allah opens a better one for you."
+    },
+    "source": {
+      "tr": "İslami Hikmet",
+      "en": "Islamic Wisdom"
+    },
+    "category": "hikmet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=88",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=88"
+  },
+  {
+    "id": "card_89",
+    "title": {
+      "tr": "İslami Hikmet",
+      "en": "Islamic Wisdom"
+    },
+    "quote": {
+      "tr": "Kalbini temiz tut; o, Allah'ın evidir.",
+      "en": "Keep your heart pure; it is the home of Allah."
+    },
+    "source": {
+      "tr": "İslami Hikmet",
+      "en": "Islamic Wisdom"
+    },
+    "category": "hikmet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=89",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=89"
+  },
+  {
+    "id": "card_90",
+    "title": {
+      "tr": "İslami Hikmet",
+      "en": "Islamic Wisdom"
+    },
+    "quote": {
+      "tr": "Dua, müminin silahıdır.",
+      "en": "Supplication is the weapon of the believer."
+    },
+    "source": {
+      "tr": "İslami Hikmet",
+      "en": "Islamic Wisdom"
+    },
+    "category": "hikmet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=90",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=90"
+  },
+  {
+    "id": "card_91",
+    "title": {
+      "tr": "İslami Hikmet",
+      "en": "Islamic Wisdom"
+    },
+    "quote": {
+      "tr": "İman, yarısı sabır yarısı şükürdür.",
+      "en": "Faith is half patience and half gratitude."
+    },
+    "source": {
+      "tr": "İslami Hikmet",
+      "en": "Islamic Wisdom"
+    },
+    "category": "hikmet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=91",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=91"
+  },
+  {
+    "id": "card_92",
+    "title": {
+      "tr": "İslami Hikmet",
+      "en": "Islamic Wisdom"
+    },
+    "quote": {
+      "tr": "Her şey fani, yalnızca Allah bakidir.",
+      "en": "Everything is transient; only Allah is eternal."
+    },
+    "source": {
+      "tr": "İslami Hikmet",
+      "en": "Islamic Wisdom"
+    },
+    "category": "hikmet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=92",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=92"
+  },
+  {
+    "id": "card_93",
+    "title": {
+      "tr": "İslami Hikmet",
+      "en": "Islamic Wisdom"
+    },
+    "quote": {
+      "tr": "Ahiret yolculuğuna en iyi azık takvadır.",
+      "en": "The best provision for the journey to the hereafter is piety."
+    },
+    "source": {
+      "tr": "İslami Hikmet",
+      "en": "Islamic Wisdom"
+    },
+    "category": "hikmet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=93",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=93"
+  },
+  {
+    "id": "card_94",
+    "title": {
+      "tr": "İslami Hikmet",
+      "en": "Islamic Wisdom"
+    },
+    "quote": {
+      "tr": "Affetmek, zayıflık değil; en büyük güçtür.",
+      "en": "Forgiveness is not weakness; it is the greatest strength."
+    },
+    "source": {
+      "tr": "İslami Hikmet",
+      "en": "Islamic Wisdom"
+    },
+    "category": "hikmet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=94",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=94"
+  },
+  {
+    "id": "card_95",
+    "title": {
+      "tr": "İslami Hikmet",
+      "en": "Islamic Wisdom"
+    },
+    "quote": {
+      "tr": "Sabır, acı bir ilaçtır; ama meyvesi tatlıdır.",
+      "en": "Patience is a bitter medicine, but its fruit is sweet."
+    },
+    "source": {
+      "tr": "İslami Hikmet",
+      "en": "Islamic Wisdom"
+    },
+    "category": "hikmet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=95",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=95"
+  },
+  {
+    "id": "card_96",
+    "title": {
+      "tr": "İslami Hikmet",
+      "en": "Islamic Wisdom"
+    },
+    "quote": {
+      "tr": "Nefsine hâkim olursan, dünyaya hâkim olursun.",
+      "en": "If you control yourself, you control the world."
+    },
+    "source": {
+      "tr": "İslami Hikmet",
+      "en": "Islamic Wisdom"
+    },
+    "category": "hikmet",
+    "imageUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=96",
+    "thumbnailUrl": "https://source.unsplash.com/1080x1920/?mosque,masjid,islamic,quran&sig=96"
+  }
+]
